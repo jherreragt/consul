@@ -29,6 +29,7 @@ es-CO:
       create: Crear un tema
       edit: Editar tema
       form:
+        topic_title: Título
         new:
           submit_button: Crear tema
         edit:
