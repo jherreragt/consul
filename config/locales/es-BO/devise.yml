@@ -59,4 +59,7 @@ es-BO:
       expired: "ha expirado, por favor vuelve a solicitarla."
       not_found: "no se ha encontrado."
       not_locked: "no estaba bloqueado."
+      not_saved:
+        one: "1 error impidió que este %{resource} fuera guardado. Por favor revisa los campos marcados para saber cómo corregirlos:"
+        other: "%{count} errores impidieron que este %{resource} fuera guardado. Por favor revisa los campos marcados para saber cómo corregirlos:"
       equal_to_current_password: "debe ser diferente a la contraseña actual"
