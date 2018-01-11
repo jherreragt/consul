@@ -542,11 +542,9 @@ he:
       not_voting_allowed: שלב ההצבעות נסגר
     budget_investments:
       not_logged_in: נדרשת %{signin} או %{signup} בכדי להמשיך
-      not_verified: רק משתמשים מאומתים יכולים להצביע על הצעות; %{verify_account}.
       organization: ארגונים אינם רשאים להצביע
       unfeasible: לא ניתן לתמוך בפרויקטים שאינם ברי ביצוע
       not_voting_allowed: שלב ההצבעות נסגר
-      different_heading_assigned: ניתן לתמוך בהצעות באיזור אחד בלבד
   welcome:
     debates:
       description: לפגישות, דיונים ודיוק הצעות לקראת הצעה סופית
