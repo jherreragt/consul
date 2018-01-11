@@ -115,9 +115,7 @@ es-AR:
       investment:
         add: Votar
         already_added: Ya has añadido esta propuesta de inversión
-        already_supported: Ya has apoyado esta propuesta. ¡Compártelo!
         support_title: Apoyar esta propuesta
-        confirm_group: "Sólo puedes apoyar propuestas en un distrito. Si sigues adelante no podrás cambiar esta decisión. ¿Estás seguro?"
         supports:
           zero: Sin apoyos
           one: 1 apoyo
@@ -128,8 +126,6 @@ es-AR:
         different_heading_assigned_html: 'Ya apoyaste propuestas de otra sección del presupuesto: %{heading_link}'
         change_ballot: "Si cambias de opinión puedes borrar tus votos en %{check_ballot} y volver a empezar."
         check_ballot_link: "revisar mis votos"
-    progress_bar:
-      available: 'Disponible: '
     show:
       group: Grupo
       phase: Fase actual
