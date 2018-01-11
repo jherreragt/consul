@@ -103,7 +103,6 @@ he:
       show:
         assigned_admin: Assigned administrator
         assigned_valuators: Assigned valuators
-        classification: Clasification
         info: '%{budget_name} - Group: %{group_name} - Investment project %{id}'
         edit: Edit
         edit_classification: Edit classification
@@ -116,7 +115,6 @@ he:
         tags: Tags
         undefined: Undefined
       edit:
-        classification: Clasification
         assigned_valuators: Valuators
         select_heading: Select heading
         submit_button: Update
@@ -276,7 +274,6 @@ he:
         assigned_admin: הוקצה מנהל לפרוייקט
         assigned_valuators: הוקצו מעריכים
         back: חזרה
-        classification: סיווג
         edit: עריכה
         edit_classification: עריכת הסיווג
         association_name: שם הארגון/עמותה
@@ -288,7 +285,6 @@ he:
         tags: תגיות
         undefined: לא מוגדר
       edit:
-        classification: סיווג
         assigned_valuators: מעריכים
         submit_button: עדכון מצב
         tags: תגיות
