@@ -341,7 +341,7 @@ module CommonActions
   end
 
   def path_for(resource)
-    nested_path_for(resource) || url_for([resource, only_path: true])
+    nested_path_for(resource) || url_for([resource, ignore_query: true])
   end
 
   def nested_path_for(resource)
